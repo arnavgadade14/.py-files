@@ -1,0 +1,5 @@
+print("Let do some addition")
+inp1 = input("Enter a value: ")
+inp2 = input("Enter another value: ")
+result = int(inp1) + int(inp2)
+print("Addition of", inp1, "and", inp2, "is", result)

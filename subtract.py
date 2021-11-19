@@ -1,0 +1,5 @@
+print("Let do some subtraction")
+num1 = input("Enter a value: ")
+num2 = input("Enter another value: ")
+num1and2 = int(num1) + int(num2)
+print("Subtraction of", num1, "and", num2, "is", num1and2)

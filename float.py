@@ -1,0 +1,5 @@
+print("This is for float")
+float1 = input("Enter Hours: ")
+float2 = input("Enter Rate: ")
+floatanswer = float(float1) + float(float2)
+print("Your speed is", floatanswer, "mph.")

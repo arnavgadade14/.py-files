@@ -1,0 +1,5 @@
+print("Let do some division")
+number1 = input("Enter a value: ")
+number2 = input("Enter another value: ")
+quotient = int(number1) / int(number2)
+print("Division of", number1, "and", number2, "is", quotient)
