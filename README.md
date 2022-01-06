@@ -9,8 +9,6 @@ install python3
 
 <blockquote>
   root@Arnav-G:/home/arnav# python version
-</blockquote>
 
-<blockquote>
   root@Arnav-G:/home/arnav# python file.py
 </blockquote>
