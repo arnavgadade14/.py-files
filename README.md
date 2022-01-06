@@ -3,8 +3,6 @@ install python3
 
 <blockquote>
   arnav@Arnav-G:~$ sudo su
-
-
   type your password
 
   root@Arnav-G:/home/arnav# python version
