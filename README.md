@@ -1,6 +1,12 @@
 # .py-files
 install python3
 
-<C:/Downloads/.py files>python version
+<blockquote>
+  arnav@Arnav-G:~$ sudo su
 
-<C:/Downloads/.py files>python file.py
+  type your password
+
+  root@Arnav-G:/home/arnav# python version
+
+  root@Arnav-G:/home/arnav# python file.py
+</blockquote>
