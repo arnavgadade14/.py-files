@@ -4,7 +4,7 @@ https://www.python.org/downloads/
 
 <blockquote>
   C:\Users\Arnav>python version
-
-  
+</blockquote>
+<blockquote>
   Downloads\ .py files>python file.py
 </blockquote>
