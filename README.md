@@ -6,5 +6,5 @@ https://www.python.org/downloads/
   C:\Users\Arnav>python version
 </blockquote>
 <blockquote>
-  Downloads\ .py files>python file.py
+  C:\Downloads\.py files>python file.py
 </blockquote>
