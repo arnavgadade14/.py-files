@@ -1,4 +1,4 @@
-# .py-files
+# Python-Files
 install python3:
 https://www.python.org/downloads/
 
@@ -6,5 +6,5 @@ https://www.python.org/downloads/
   C:\Users\Arnav>python version
 </blockquote>
 <blockquote>
-  C:\Downloads\.py files>python file.py
+  C:\Downloads\.py files>python filename.py
 </blockquote>
