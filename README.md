@@ -9,6 +9,7 @@ Go to Terminal And Check Python's Version.
 </blockquote>
 Go To '.py files' folder. After That, Write This And Press Enter Key.
 <blockquote>
+  C:\Downloads\.py files>cd folder/
   C:\Downloads\.py files>python filename.py
 </blockquote>
 
