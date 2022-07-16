@@ -8,7 +8,6 @@ Go to Terminal And Check Python's Version.
   C:\Users\Arnav>python version
 </blockquote>
 Go To '.py files' folder. After That, Write This And Press Enter Key.
-
 <blockquote>
   C:\Downloads\.py files>cd folder/
   
