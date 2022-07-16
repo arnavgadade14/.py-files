@@ -2,6 +2,7 @@
 install folder: Click On Code Button. After that, click on Download Zip. In Your File Explorer, Unzip The Folder.
 
 install python3: https://www.python.org/downloads/
+
 Check Python's Version.
 <blockquote>
   C:\Users\Arnav>python version
