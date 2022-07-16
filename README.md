@@ -7,6 +7,7 @@ https://www.python.org/downloads/
 </blockquote>
 Go to Terminal and Go To '.py files'
 After That, Write This And Press Enter Key.
+
 <blockquote>
   C:\Downloads\.py files>python filename.py
 </blockquote>
