@@ -3,11 +3,11 @@ download folder: Click On Code Button. After that, click on Download Zip. In You
 
 install python3: https://www.python.org/downloads/
 
-Check Python's Version.
+Go to Terminal And Check Python's Version.
 <blockquote>
   C:\Users\Arnav>python version
 </blockquote>
-Go to Terminal and Go To '.py files'. After That, Write This And Press Enter Key.
+Go To '.py files' folder. After That, Write This And Press Enter Key.
 <blockquote>
   C:\Downloads\.py files>python filename.py
 </blockquote>
