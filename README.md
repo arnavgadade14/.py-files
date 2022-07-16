@@ -10,7 +10,6 @@ Click On Code Button. After that, click on Download Zip. In Your File Explorer, 
   C:\Users\Arnav>python version
 </blockquote>
 Go to Terminal and Go To '.py files'.
-
 After That, Write This And Press Enter Key.
 <blockquote>
   C:\Downloads\.py files>python filename.py
