@@ -1,5 +1,5 @@
 # How To Run My Python Files?
-install folder: Click On Code Button. After that, click on Download Zip. In Your File Explorer, Unzip The Folder.
+download folder: Click On Code Button. After that, click on Download Zip. In Your File Explorer, Unzip The Folder.
 
 install python3: https://www.python.org/downloads/
 
