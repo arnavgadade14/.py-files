@@ -3,7 +3,9 @@ install python3:
 https://www.python.org/downloads/
 
 install folder:
+
 Click On Code Button. After that, click on Download Zip.
+
 In Your File Explorer, Unzip The Folder.
 
 <blockquote>
